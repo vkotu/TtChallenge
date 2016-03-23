@@ -1,7 +1,8 @@
 # TtChallenge
 #instructions to run the program
 
-Make sure to have Java and Git installed on your machine
+Make sure to have Java and Git installed on your machine.
+
 please note variables are case sensitive
 
 If input provided through command line
