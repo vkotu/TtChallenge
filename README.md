@@ -15,9 +15,9 @@ If input provided through command line
 You will see the prompts to  "Enter a Command:"
 You can start testing by issuing commmands, program exits as soon as you enter "END"
 
-If providing file as input
-1. follow Steps 1 to 4
-2. java com.tt.challenge.Main inputfilepath
+If providing file as input run the below command at step 5
+
+java com.tt.challenge.Main inputfilepath
 
 Walkthrough:<br/>
 ![Video Walkthrough](walkthrough.gif)
