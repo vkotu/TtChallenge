@@ -12,12 +12,12 @@ If input provided through command line
 4. javac com/tt/challenge/Main.java
 5. java com.tt.challenge.Main
 
-#You will see the prompts to  "Enter a Command:"
+You will see the prompts to  "Enter a Command:"
 You can start testing by issuing commmands, program exits as soon as you enter "END"
 
 If providing file as input
-follow Steps 1 to 4 
-5. java com.tt.challenge.Main inputfilepath
+1. follow Steps 1 to 4
+2. java com.tt.challenge.Main inputfilepath
 
 Walkthrough:<br/>
 ![Video Walkthrough](walkthrough.gif)
