@@ -1,10 +1,10 @@
 # TtChallenge
 #instructions to run the program
 
-#Make sure to have Java and Git installed on your machine
-#please note variables are case sensitive
+Make sure to have Java and Git installed on your machine
+please note variables are case sensitive
 
-#if input provided through command line
+If input provided through command line
 
 1. git clone git@github.com:vkotu/TtChallenge.git
 2. cd TtChallenge
@@ -15,7 +15,7 @@
 #You will see the prompts to  "Enter a Command:"
 You can start testing by issuing commmands, program exits as soon as you enter "END"
 
-#if providing file as input
+If providing file as input
 follow Steps 1 to 4 
 5. java com.tt.challenge.Main inputfilepath
 
